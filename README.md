@@ -19,8 +19,8 @@ Users should be able to:
 
 ### 🔗 Solution Links
 
-- Solution URL in [Github](https://github.com/alexguemar/frontendmentor-four-card-feature)
-- Live Site URL in [Vercel](https://frontendmentor-four-card-feature-beta.vercel.app/)
+- Solution URL in [Github](https://github.com/alexguemar/frontendmentor-social-link-profile)
+- Live Site URL in [Vercel](https://frontendmentor-social-link-profile.vercel.app/)
 
 ## 🚀 My process
 
@@ -61,7 +61,7 @@ This achievement is a reflection of collective effort and shared inspiration!
 
 ## 🤗 Do you have feedback for my project?
 
-I would love to receive feedback! I'm always looking to improve my skills. So, if there's anything you'd like to mention, please comment on the [Challenge at Frontendmentor](https://www.frontendmentor.io/solutions/four-card-feature-section-ABR5N5xolv).
+I would love to receive feedback! I'm always looking to improve my skills. So, if there's anything you'd like to mention, please comment on the [Challenge at Frontendmentor](https://www.frontendmentor.io/solutions/social-links-profile-jmRzisCdey).
 
 ---
 
